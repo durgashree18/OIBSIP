@@ -20,12 +20,12 @@ The main goal of this project is to understand how to create and style a webpage
 - HTML
 - CSS
 
-'''## Project Structure
-Landing_Page_Project/
+## Project Structure
+```Landing_Page_Project/
 │
 ├── index.html
 ├── style.css
-└── README.md'''
+└── README.md```
 
 ## How to Run the Project
 1. Download or clone the repository.
