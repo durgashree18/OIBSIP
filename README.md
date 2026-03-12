@@ -25,7 +25,7 @@ The main goal of this project is to understand how to create and style a webpage
 │
 ├── index.html
 ├── style.css
-└── README.md```
+└── README.md
 
 ## How to Run the Project
 1. Download or clone the repository.
