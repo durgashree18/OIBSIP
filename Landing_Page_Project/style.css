@@ -1,0 +1,63 @@
+body{
+font-family: Arial;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+header{
+background:#2ecc71;
+color:white;
+padding:40px;
+}
+
+.content{
+padding:20px;
+}
+
+footer{
+background:black;
+color:white;
+padding:10px;
+}
+
+nav{
+background:black;
+padding:15px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.services{
+    text-align:center;
+    padding:40px;
+}
+
+.service-container{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-top:20px;
+}
+
+.service-box{
+    background:white;
+    padding:20px;
+    width:200px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.service-box img{
+    width:60px;
+    margin-bottom:10px;
+}
+
+.service-box h3{
+    margin:10px 0;
+}
